@@ -6,3 +6,6 @@ def base(request):
 
 def home(request):
     return HttpResponse("You're at the home page.")
+
+def index(request):
+    return HttpResponse("You're at the index page.")
