@@ -1,3 +1,4 @@
+
 """
 URL configuration for AidePourTous project.
 
